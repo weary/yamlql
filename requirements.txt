@@ -1,0 +1,9 @@
+
+# test deps
+pyyaml
+pytest
+pytest-cov
+ipdb
+
+# vscode
+autopep8
